@@ -16,14 +16,14 @@
 <img align="left" alt="bootstap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="26px" src="https://w7.pngwing.com/pngs/224/196/png-transparent-web-development-angularjs-javascript-vue-js-world-wide-web-thumbnail.png" />
+<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" />
-<img align="left" alt="symfony" width="26px" src="https://www.pngfind.com/pngs/m/83-830369_png-svg-eps-symfony-logo-white-transparent-png.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" color:"#7F00FF" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="symfony" width="26px" src="https://fr.wikipedia.org/wiki/Symfony#/media/Fichier:Symfony2.svg" />
+<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/langfr-220px-Git-logo.svg.png" />
+<img align="left" alt="GitHub" color:"#7F00FF" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/220px-Octicons-mark-github.svg.png" />
 
 <!--
 **matthCorvo/matthCorvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
