@@ -18,12 +18,12 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/langfr-220px-Angular_full_color_logo.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://img.icons8.com/color/452/mysql-logo.png" />
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/offices/452/php-logo.png" />
 <img align="left" alt="symfony" width="26px" src="https://img.icons8.com/color/452/symfony.png" />
 <img align="left" alt="Git" width="26px" src="https://3.bp.blogspot.com/-xhNpNJJyQhk/XIe4GY78RQI/AAAAAAAAItc/ouueFUj2Hqo5dntmnKqEaBJR4KQ4Q2K3ACK4BGAYYCw/s1600/logo%2Bgit%2Bicon.png" />
-<img align="left" alt="GitHub" color:"#7F00FF" width="32px" src="https://img.icons8.com/plasticine/2x/ffffff/github.png" />
+<img align="left" alt="GitHub" color:"#7F00FF" width="27px" src="https://img.icons8.com/plasticine/2x/ffffff/github.png" />
 
 <!--
 **matthCorvo/matthCorvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
