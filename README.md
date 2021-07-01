@@ -22,7 +22,7 @@
 <img align="left" alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/offices/452/php-logo.png" />
 <img align="left" alt="symfony" width="26px" src="https://img.icons8.com/color/452/symfony.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" />
+<img align="left" alt="Git" width="26px" src="https://img.icons8.com/ios/452/git.png" />
 <img align="left" alt="GitHub" color:"#7F00FF" width="26px" src="http://fabre.io/wp-content/uploads/2018/04/git.jpg" />
 
 <!--
