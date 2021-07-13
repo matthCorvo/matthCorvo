@@ -1,6 +1,6 @@
-### Salut, je suis Matthieu 👋
+### Salut,  👋
 
-## Je suis un développeur Front-end, j'adore coder !
+## Développeur Front-end, j'adore coder !
 
 - 📚 J'apprends actuellement React, Javascript, Nodejs et Firebase.
 - 👯 Je cherche à collaborer avec d'autres développeurs passionnés.
