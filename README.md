@@ -1,9 +1,9 @@
-<h1 style="font-weight:bolder;">**bienvenue sur mon github 👋🏾 👨🏾‍💻**</h1>
+<h1 style="font-weight:bolder;">## bienvenue sur mon github 👋🏾 👨🏾‍💻</h1>
 
 <br />
 
 
-**a propos**
+## a propos
 
 - 💼  [developpeur BackEnd](https://matthcorvo.github.io/PortfolioDevWeb/)
 
