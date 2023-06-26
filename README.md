@@ -1,4 +1,4 @@
-**bienvenue sur mon github 👋🏾 👨🏾‍💻**
+<h1 style="font-weight:bolder;">**bienvenue sur mon github 👋🏾 👨🏾‍💻**</h1>h1>
 
 <br />
 
@@ -6,22 +6,6 @@
 **a propos**
 
 - 💼  developpeur BackEnd (https://matthcorvo.github.io/PortfolioDevWeb/)
-
-## Technologies
-
-Voici les principales technologies avec lesquelles j'ai récemment travaillé :
-
-- PHP
-- React JS
-- JavaScript
-- Symfony
-- MongoDB
-- Docker
-- WordPress
-- Bootstrap
-- MySQL
-- API
-
 
 ## Projects
 
