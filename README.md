@@ -20,11 +20,9 @@ N'hésitez pas à consulter mon profil GitHub pour découvrir plus de projets in
 
 ## Contact
 
-Vous pouvez me contacter via les liens suivants :
+N'hésitez pas à me contacter :
 
 - [LinkedIn](https://www.linkedin.com/in/corvomatthieu/)
 - [Email](promatthcorvo@gmail.com)
 
-Je suis ouvert aux opportunités de collaboration. N'hésitez pas à me contacter.
 
-Merci d'avoir visité mon GitHub !
