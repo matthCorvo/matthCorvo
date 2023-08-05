@@ -37,28 +37,130 @@
 
 - 💼  [developpeur BackEnd](https://matthcorvo.github.io/portfolio/)
 
-## Projects
+<!-- PROJECTS -->
 
-Voici mes derniers projets :
+<h2 align="center">Projects</h2>
+<div align="center">
+	<table>
+		<tr>
+			<td width="50%">
+				<h3 align="center">L'abattoire végétal</h3>
+				<div align="center">  
+					<a href='' target="_blank">
+						<img src="./assets/veg.png" alt="project 1" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/vAbattoir2023/abattoir_vegetal/tree/MatthFin" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+				<!--		<a href="https://google.com" target="_blank">
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a> -->
+					</p>
+					<p><strong>Symfony - Mongodb - PHPunit - Javascript - API - Git</strong></p>
+          <p>
+						Ajout d'un espace de réservation de table dans un restaurant. Les utilisateurs peuvent inviter des amis en fonction de leurs centres d'intérêt. <b> Ce projet est toujours en cours de développement. </b>
+					</p>
+				</div>
+			</td>
+			<td width="50%">
+				<h3 align="center">Portfolio</h3>
+				<div align="center" >  
+					<a href='https://matthcorvo.github.io/portfolio/' target="_blank">
+						<img src="./assets/pf.png" alt="project 2" height="100%" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<a href="https://github.com/matthCorvo/portfolio/" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="https://matthcorvo.github.io/portfolio/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+					</p>
+					 <p><strong>HTML - CSS - Javascript</strong></p>
+					<p>Mon portfolio</p>
+				</div>
+        </tr>
+	    <tr>
+            <td width="50%">
+                <h3 align="center">Code Saver</h3>
+                <div align="center" >  
+                    <a href='http://codesaver.alwaysdata.net/' target="_blank">
+                        <img src="./assets/bokit.png" alt="project 3" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/matthCorvo/CodeSaver" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="http://codesaver.alwaysdata.net/" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>
+                    </p>
+                    <p><strong>PHP - MySQL - Bootstrap - Javascript - PHPunit</strong></p>
+		    <p>Permet aux développeurs de sauvegarder et classer leurs extraits de code.</p>
+                </div>
+            </td>
+            <td width="50%">
+                <h3 align="center">Attrape Bokits</h3>
+                <div align="center">  
+                    <a href='http://bokitgame.alwaysdata.net' target="_blank">
+                        <img src="./assets/bokit.png" alt="project 4" height="100%" />
+                    </a>
+                    <br>
+                    <br>
+                    <p>
+                        <a href="https://github.com/matthCorvo/bokitGameV2" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<a href="http://bokitgame.alwaysdata.net" target="_blank">
+							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
+						</a>	
+                    </p>
+                    <p><strong>Javascript - CSS - HTML - PHP - MySQL</strong></p>
+		    <p>les joueurs doivent cliquer sur des bokits en mouvement pour marquer des points. Le jeu utilise JavaScript, PHP et MySQL pour gérer le gameplay et enregistrer les scores.</p>
+                </div>	
+            </td>
+        </tr>
+	</table>
+</div>
+<br />
+<br />
+<hr>
 
-[L'ABATTOIR VEGETAL](https://github.com/vAbattoir2023/abattoir_vegetal/tree/Matthieu) - Ajout d'un espace de rencontre pour réservation
-<code><img height="20" alt="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" alt="symfony" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
 
-[Code saver web app](http://codesaver.alwaysdata.net/) - créées vos propres "cheat sheet" <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<!-- SOCIALS -->
 
-[BokitGame](http://bokitgame.alwaysdata.net/) - jeux de la taupes. <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code><code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<h2 align="center">Contact</h2>
+<p align="center">
+	&nbsp&nbsp&nbsp
+<a href="https://www.linkedin.com/in/corvomatthieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthcorvolinkedin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+
+</p>
+
+<hr>
 
 
-N'hésitez pas à consulter mon profil GitHub pour découvrir plus de projets intéressants.
+<!-- STATS -->
+<div align="center" margin="100px 0 0 0">
 
-## Contact
+<h2 align="center">Stats</h2>
+<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
 
-N'hésitez pas à me contacter :
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingphasedotcom&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
 
-- [LinkedIn](https://www.linkedin.com/in/corvomatthieu/)
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingphasedotcom&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
+
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingphasedotcom&" alt="codingphasedotcom" /></p>
+</div>
+<br>
+
+- [LinkedIn]()
 - [Email](promatthcorvo@gmail.com)
 
 
