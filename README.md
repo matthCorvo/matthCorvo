@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="assets/img.png width="100%"/>
+  <img src="./assets/img.png width="100%"/>
 </div>
 <h1 style="font-weight:bolder;font-size:40px;">Bienvenue sur mon github 👋🏾 👨🏾‍💻</h1>
 
