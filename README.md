@@ -33,12 +33,6 @@
 
 <!-- PROJECTS -->
 
-## A propos
-
-- 💼  [developpeur BackEnd](https://matthcorvo.github.io/portfolio/)
-
-<!-- PROJECTS -->
-
 <h2 align="center">Projects</h2>
 <div align="center">
 	<table>
@@ -136,31 +130,10 @@
 
 <!-- SOCIALS -->
 
-<h2 align="center">Contact</h2>
+<h2 align="center">Contactez-moi</h2>
 <p align="center">
 	&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/corvomatthieu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthcorvolinkedin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 
 </p>
-
-<hr>
-
-
-<!-- STATS -->
-<div align="center" margin="100px 0 0 0">
-
-<h2 align="center">Stats</h2>
-<h6 style="color:red">These stats are only for public repos it don't show private stats on projects for previous employers and clients.</h6>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingphasedotcom&show_icons=true&locale=en&layout=compact" alt="codingphasedotcom" /></p>
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingphasedotcom&show_icons=true&locale=en" alt="codingphasedotcom" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingphasedotcom&" alt="codingphasedotcom" /></p>
-</div>
-<br>
-
-- [LinkedIn]()
-- [Email](promatthcorvo@gmail.com)
-
 
