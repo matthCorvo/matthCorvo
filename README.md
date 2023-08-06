@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="./assets/img.png" width="100%"/>
+  <img src="./assets/img1.png" width="100%"/>
 </div>
 <h4 align="center">Développeur passionné par la programmation et la conception d'applications. J'évolue actuellement dans l'univers captivant du développement back-end avec PHP et Symfony. </h4>
 <h4 align="center">Mon expertise s'étend également vers la création de plugins et thèmes WordPress. </h4>
