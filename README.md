@@ -53,7 +53,7 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a> -->
 					</p>
-					<p><strong>Symfony - Mongodb - PHPunit - Javascript - API - Git</strong></p>
+					<p><strong>Symfony - Mongodb - Javascript - API - Git</strong></p>
           <p>
 						Ajout d'un espace de réservation de table dans un restaurant. Les utilisateurs peuvent inviter des amis en fonction de leurs centres d'intérêt. 
 					</p>
@@ -96,7 +96,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>PHP - MySQL - Bootstrap - Javascript - PHPunit</strong></p>
+                    <p><strong>PHP - MySQL - Bootstrap - Javascript </strong></p>
 		    <p>Permet aux développeurs de sauvegarder et classer leurs extraits de code.</p>
                 </div>
             </td>
