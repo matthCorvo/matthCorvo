@@ -55,7 +55,7 @@
 					</p>
 					<p><strong>Symfony - Mongodb - PHPunit - Javascript - API - Git</strong></p>
           <p>
-						Ajout d'un espace de réservation de table dans un restaurant. Les utilisateurs peuvent inviter des amis en fonction de leurs centres d'intérêt. <b> Ce projet est toujours en cours de développement. </b>
+						Ajout d'un espace de réservation de table dans un restaurant. Les utilisateurs peuvent inviter des amis en fonction de leurs centres d'intérêt. 
 					</p>
 				</div>
 			</td>
