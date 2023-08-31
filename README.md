@@ -76,7 +76,9 @@
 						</a>	 -->
 					</p>
 					 <p><strong>PHP - RESTful API - MySQL - Bootstrap </strong></p>
-					<p>Mon portfolio</p>
+					<p>Création d'un Job Board, permettant la consultation d'offres d'emploi avec des fonctionnalités de filtrage et de pagination créé avec MySQL et PHP.
+
+</p>
 				</div>
         </tr>
 	    <tr>
