@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="./assets/img1.png" width="100%"/>
+  <a href="https://matthcorvo.github.io/portfolio/" ><img src="./assets/img1.png" width="100%"/></a>
 </div>
 <h4 align="center">Développeur passionné par la programmation et la conception d'applications. J'évolue actuellement dans l'univers captivant du développement back-end avec PHP et Symfony. </h4>
 <h4 align="center">Mon expertise s'étend également vers la création de plugins et thèmes WordPress. </h4>
@@ -60,22 +60,22 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Portfolio</h3>
+				<h3 align="center">Job board</h3>
 				<div align="center" >  
-					<a href='https://matthcorvo.github.io/portfolio/' target="_blank">
-						<img src="./assets/pf.png" alt="project 2" height="100%" />
+					<a href='https://github.com/matthCorvo/Job-Board-PHP' target="_blank">
+						<img src="./assets/job.png" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/matthCorvo/portfolio/" target="_blank">
+						<a href="https://github.com/matthCorvo/Job-Board-PHP" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://matthcorvo.github.io/portfolio/" target="_blank">
+<!-- 						<a href="https://matthcorvo.github.io/portfolio/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+						</a>	 -->
 					</p>
-					 <p><strong>HTML - CSS - Javascript</strong></p>
+					 <p><strong>PHP - RESTful API - MySQL - Bootstrap </strong></p>
 					<p>Mon portfolio</p>
 				</div>
         </tr>
