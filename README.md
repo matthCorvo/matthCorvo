@@ -2,7 +2,6 @@
   <a href="https://matthcorvo.github.io/portfolio/" ><img src="./assets/img1.png" width="100%"/></a>
 </div>
 <h4 align="center">Développeur passionné par la programmation et la conception d'applications. J'évolue actuellement dans l'univers captivant du développement back-end avec PHP et Symfony. </h4>
-<h4 align="center">Mon expertise s'étend également vers la création de plugins et thèmes WordPress. </h4>
 
 <hr>
 
