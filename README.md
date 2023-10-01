@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <a href="https://matthcorvo.github.io/portfolio/" ><img src="./assets/ban.png" width="100%"/></a>
+  <a href="https://matthcorvo.github.io/portfolio/" ><img src="./assets/Ban.png" width="100%"/></a>
 </div>
 
 <hr>
