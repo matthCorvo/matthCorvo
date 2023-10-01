@@ -101,23 +101,23 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Attrape Bokits</h3>
+                <h3 align="center">Gestionnaire de tâches</h3>
                 <div align="center">  
-                    <a href='http://bokitgame.alwaysdata.net' target="_blank">
-                        <img src="./assets/bokit.png" alt="project 4" height="100%" />
+                    <a href='https://github.com/matthCorvo/Task-Manager' target="_blank">
+                        <img src="./assets/screenshot.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/matthCorvo/bokitGameV2" target="_blank">
+                        <a href="https://github.com/matthCorvo/Task-Manager" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="http://abattoir-vegetal.sekhmet.lapasserelle.school/" target="_blank">
+<!-- 						<a href="http://abattoir-vegetal.sekhmet.lapasserelle.school/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>	
+						</a>	 -->
                     </p>
-                    <p><strong>Javascript - CSS - HTML - PHP - MySQL</strong></p>
-		    <p>les joueurs doivent cliquer sur des bokits en mouvement pour marquer des points. Le jeu utilise JavaScript, PHP et MySQL pour gérer le gameplay et enregistrer les scores.</p>
+                    <p><strong>Angular - Symfony RESTfulApi - Bootstrap - MySQL</strong></p>
+		    <p>créer, visualiser, mettre à jour et supprimer des listes de tâches et des tâches individuelles.</p>
                 </div>	
             </td>
         </tr>
