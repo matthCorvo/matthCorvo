@@ -117,7 +117,7 @@
 						</a>	 -->
                     </p>
                     <p><strong>Angular - Symfony RESTfulApi - Bootstrap - MySQL</strong></p>
-		    <p>créer, visualiser, mettre à jour et supprimer des listes de tâches et des tâches individuelles.</p>
+		    <p>créer, visualiser, mettre à jour et supprimer des listes de tâches et des tâches individuelles, protégées par l'authentification utilisateur .</p>
                 </div>	
             </td>
         </tr>
