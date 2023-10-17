@@ -92,12 +92,12 @@
                         <a href="https://github.com/matthCorvo/deliveroo-clone-nestjs-angular/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="http://codesaver.alwaysdata.net/" target="_blank">
+<!-- 						<a href="http://codesaver.alwaysdata.net/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a>
+						</a> -->
                     </p>
                     <p><strong>NestJs - PostgreSQL - Bootstrap - Angular </strong></p>
-		    <p>Permet aux développeurs de sauvegarder et classer leurs extraits de code.</p>
+		    <p>Creation d’un REST API pour un clone de deliveroo avec NestJS PostgreSQL et une partie front-end avec Angular .</p>
                 </div>
             </td>
             <td width="50%">
