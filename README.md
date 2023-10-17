@@ -81,22 +81,22 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Code Saver</h3>
+                <h3 align="center">Deliveroo clone</h3>
                 <div align="center" >  
-                    <a href='http://codesaver.alwaysdata.net/' target="_blank">
+                    <a href='https://github.com/matthCorvo/deliveroo-clone-nestjs-angular/' target="_blank">
                         <img src="./assets/cs.png" alt="project 3" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://github.com/matthCorvo/CodeSaver" target="_blank">
+                        <a href="https://github.com/matthCorvo/deliveroo-clone-nestjs-angular/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<a href="http://codesaver.alwaysdata.net/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
                     </p>
-                    <p><strong>PHP - MySQL - Bootstrap - Javascript </strong></p>
+                    <p><strong>NestJs - PostgreSQL - Bootstrap - Angular </strong></p>
 		    <p>Permet aux développeurs de sauvegarder et classer leurs extraits de code.</p>
                 </div>
             </td>
