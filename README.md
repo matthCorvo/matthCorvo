@@ -36,7 +36,7 @@
 	<table>
 		<tr>
 			<td width="50%">
-				<h3 align="center">L'abattoire végétal</h3>
+				<h3 align="center">L'abatoire végétal</h3>
 				<div align="center">  
 					<a href='' target="_blank">
 						<img src="./assets/veg.png" alt="project 1" height="100%" />
