@@ -97,7 +97,7 @@
 						</a> -->
                     </p>
                     <p><strong>NestJs - PostgreSQL - Bootstrap - Angular </strong></p>
-		    <p>Creation d’un clone de deliveroo avec NestJS PostgreSQL et  Angular. Ajout au panier et paiement des articles avec authentification</p>
+		    <p>Un site clone de deliveroo. Ajout au panier et paiement des articles avec authentification.</p>
                 </div>
             </td>
             <td width="50%">
