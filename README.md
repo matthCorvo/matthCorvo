@@ -92,9 +92,9 @@
                         <a href="https://github.com/matthCorvo/deliveroo-clone-nestjs-angular/" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-<!-- 						<a href="http://codesaver.alwaysdata.net/" target="_blank">
+						<a href="https://deliveroo-clone-ng.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
-						</a> -->
+						</a>
                     </p>
                     <p><strong>NestJs - PostgreSQL - Bootstrap - Angular </strong></p>
 		    <p>Un site clone de deliveroo. Ajout au panier et paiement des articles avec authentification.</p>
@@ -116,7 +116,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	 -->
                     </p>
-                    <p><strong>Angular - Symfony RESTfulApi - Bootstrap - MySQL</strong></p>
+                    <p><strong>Angular - Symfony  - Bootstrap - MySQL</strong></p>
 		    <p>créer, visualiser, mettre à jour et supprimer des listes de tâches et des tâches individuelles, protégées par l'authentification utilisateur .</p>
                 </div>	
             </td>
