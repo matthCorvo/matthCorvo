@@ -92,7 +92,7 @@
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	 -->
                     </p>
-                    <p><strong>Angular - Symfony  - Bootstrap - MySQL</strong></p>
+                    <p><strong>Angular - Symfony  - Bootstrap - MySQL - Docker </strong></p>
 		    <p>créer, visualiser, mettre à jour et supprimer des listes de tâches et des tâches individuelles, protégées par l'authentification utilisateur .</p>
                 </div>	
             </td>
