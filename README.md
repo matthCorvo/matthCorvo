@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <a href="https://matthieu-corvo.vercel.app/" ><img src="./assets/Ban.png" width="100%"/></a>
+  <a href="https://matthieu-corvo.vercel.app/" ><img src="" width="100%"/></a>
 </div>
 
 <hr>
