@@ -7,7 +7,7 @@
 
 
 
-<h2 align="center">Projets</h2>
+<h2 align="center">Derniers projets</h2>
 <div align="center">
 	<table>
 		<tr>
